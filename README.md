@@ -1,2 +1,2 @@
 # SVG-Shrinc
-Reduce numbers to reduce size
+Simple single page to reduce SVG vector grafic file size.
